@@ -8,10 +8,7 @@ This is a simple library system project built using Spring Boot, JPA, and Postgr
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
